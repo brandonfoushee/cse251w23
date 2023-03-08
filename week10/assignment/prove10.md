@@ -33,7 +33,7 @@ Runs without errors | 20 | 0 | 0 | 0
 Program not hard coded to 5 philosophers | 10 | 0 | 0 | 0
 Waiter class used to control forks | 15 | 0 | 0 | 0
 Program is concurrent (philosophers take turns) | 30 | 20 | 10 | 0
-Program provides evidence that philosophers eat and think approx. same amount of time | 10 | 7 | 3 | 0
+Program provides evidence that philosophers eat and think approx. same number of times | 10 | 7 | 3 | 0
 
 Assignments are not accepted late. Instead, you should submit what you have completed by the due date for partial credit. 
 
