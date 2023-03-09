@@ -11,14 +11,12 @@
                 "UNICODE",
                 "_UNICODE"
             ],
-            "compilerPath": "C:/cygwin64/bin/g++.exe",
+            "compilerPath": "C:/cygwin64/bin/gcc.exe",
             "cStandard": "c23",
             "cppStandard": "c++23",
             "intelliSenseMode": "windows-gcc-x86",
             "forcedInclude": [],
-            "compilerArgs": [
-                "-pthread"
-            ],
+            "compilerArgs": [],
             "compileCommands": ""
         }
     ],

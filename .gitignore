@@ -1,5 +1,5 @@
 **/code*.py
-.vscode/settings.json
+.vscode/*
 **/attendance.png
 **/__pycache__
 **/elephant
